@@ -5,7 +5,7 @@ root.title("Counter App")
 root.geometry("300x300")
 root.resizable(False, False)
 
-
+# Greeting label
 greeting_label = tk.Label(root, text="Welcome to the Counter App!") 
 greeting_label.pack(pady=20)
 
